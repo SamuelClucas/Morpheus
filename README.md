@@ -50,5 +50,3 @@ This tool was developed over two weeks, building upon experimental design, class
 Samuel Clucas
 
 BSc, Biological Sciences (First) – Durham University
-
-Incoming MRes Biomedical Data Science – Imperial College London
